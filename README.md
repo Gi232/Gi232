@@ -6,7 +6,7 @@ No dia a dia, trabalho com validação de requisições HTTP, consumo de APIs RE
 
 ## Languages and Tools 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,postman,mysql,sqlserver,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,postman,mysql,sqlserver)](https://skillicons.dev)
 
 ##
 

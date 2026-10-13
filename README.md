@@ -12,6 +12,8 @@
 
 ## 💻 Sobre mim
 
+Atualmente, curso **Ciência da Computação**, com foco em desenvolvimento backend.
+
 Tenho foco em **desenvolvimento backend com C# e .NET**, com interesse em construir aplicações bem estruturadas, integrar sistemas por meio de **APIs REST** e trabalhar com dados utilizando **SQL**.
 
 Nos meus projetos pessoais, busco aprofundar meus conhecimentos no ecossistema **.NET**, na criação e no consumo de APIs e na integração com bancos de dados. Valorizo código claro, organização e boas práticas para desenvolver soluções fáceis de manter e evoluir.
@@ -30,6 +32,14 @@ Minha experiência com suporte técnico de software, requisições HTTP e integr
 **Ferramentas que fazem parte da minha rotina**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,mysql,git,github,py&theme=dark" alt="C#, .NET, Postman, MySQL, Git, GitHub e Python" />
+
+</div>
+
+## 🤝 Contato profissional
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/giovanna-santos-454a92217/"><img src="https://img.shields.io/badge/LinkedIn-Giovanna%20Santos-0A66C2?style=for-the-badge" alt="LinkedIn de Giovanna Santos" /></a>
 
 </div>
 

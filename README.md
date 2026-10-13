@@ -2,34 +2,34 @@
 
 # Olá, eu sou a Giovanna 👋
 
-### Código, dados e conexões entre sistemas.
+### Desenvolvimento backend com C# e .NET
 
-**Ciência da Computação · Integrações · Desenvolvimento**
+**C# · .NET · APIs REST · SQL**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+C%23+%7C+APIs+REST;Conectando+sistemas+e+transformando+dados;Aprendendo%2C+construindo+e+evoluindo" alt="Texto animado com minhas stacks e interesses" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=C%23+%7C+.NET+%7C+APIs+REST+%7C+SQL;Backend%2C+integra%C3%A7%C3%B5es+e+bancos+de+dados;Transformando+ideias+em+c%C3%B3digo" alt="Texto animado com minhas stacks e interesses" />
 
 </div>
 
 ## 💻 Sobre mim
 
-Tenho foco em **desenvolvimento de software**, com interesse em soluções que conectam sistemas, trabalham com dados e resolvem problemas reais. Minha experiência com suporte técnico, integrações e APIs contribui para uma visão prática sobre o funcionamento das aplicações.
+Tenho foco em **desenvolvimento backend com C# e .NET**, com interesse em construir aplicações bem estruturadas, integrar sistemas por meio de **APIs REST** e trabalhar com dados utilizando **SQL**.
 
-Desenvolvo projetos pessoais com **Python, C# e SQL**, explorando o consumo de **APIs REST**, a organização do código e boas práticas de desenvolvimento. Busco aprofundar meus conhecimentos em arquitetura de software e construir aplicações claras, bem estruturadas e fáceis de manter.
+Nos meus projetos pessoais, busco aprofundar meus conhecimentos no ecossistema **.NET**, na criação e no consumo de APIs e na integração com bancos de dados. Valorizo código claro, organização e boas práticas para desenvolver soluções fáceis de manter e evoluir.
 
-Gosto de transformar ideias em código, investigar desafios técnicos e evoluir a cada projeto.
+Minha experiência com suporte técnico de software, requisições HTTP e integrações contribui para uma visão prática sobre o comportamento das aplicações e a investigação de problemas. Gosto de transformar ideias em código e evoluir a cada projeto.
 
 ## 🛠️ Minhas stacks
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=databricks&logoColor=0D1117)
 
 **Ferramentas que fazem parte da minha rotina**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,mysql,html,css,js&theme=dark" alt="Git, GitHub, Postman, MySQL, HTML, CSS e JavaScript" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postman,mysql,git,github,py&theme=dark" alt="C#, .NET, Postman, MySQL, Git, GitHub e Python" />
 
 </div>
 

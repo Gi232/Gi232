@@ -12,11 +12,11 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Ciência da Computação**, com experiência prática em suporte técnico de software, integrações, APIs e análise de dados.
+Tenho foco em **desenvolvimento de software**, com interesse em soluções que conectam sistemas, trabalham com dados e resolvem problemas reais. Minha experiência com suporte técnico, integrações e APIs contribui para uma visão prática sobre o funcionamento das aplicações.
 
-No dia a dia, trabalho com validação de requisições HTTP, consumo de APIs REST, consultas SQL e resolução de problemas de integração entre sistemas. Também construo projetos pessoais para aprofundar meus conhecimentos em arquitetura e boas práticas de desenvolvimento.
+Desenvolvo projetos pessoais com **Python, C# e SQL**, explorando o consumo de **APIs REST**, a organização do código e boas práticas de desenvolvimento. Busco aprofundar meus conhecimentos em arquitetura de software e construir aplicações claras, bem estruturadas e fáceis de manter.
 
-Gosto de entender como as coisas funcionam, conectar informações e transformar problemas em soluções.
+Gosto de transformar ideias em código, investigar desafios técnicos e evoluir a cada projeto.
 
 ## 🛠️ Minhas stacks
 

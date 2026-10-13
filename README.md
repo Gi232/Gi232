@@ -29,9 +29,9 @@ Minha experiência com suporte técnico de software, requisições HTTP e integr
 ![APIs REST](https://img.shields.io/badge/APIs_REST-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=databricks&logoColor=0D1117)
 
-**Ferramentas que fazem parte da minha rotina**
+**Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postman,mysql,git,github,py&theme=dark" alt="C#, .NET, Postman, MySQL, Git, GitHub e Python" />
+<img src="https://skillicons.dev/icons?i=postman,mysql,git,github&theme=dark" alt="Postman, MySQL, Git e GitHub" />
 
 </div>
 

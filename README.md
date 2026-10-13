@@ -12,13 +12,11 @@
 
 ## 💻 Sobre mim
 
-Atualmente, curso **Ciência da Computação**, com foco em desenvolvimento backend.
+Curso **Ciência da Computação** e direciono meus projetos e estudos para o **desenvolvimento backend com C# e .NET**, com ênfase em **APIs REST e SQL**.
 
-Tenho foco em **desenvolvimento backend com C# e .NET**, com interesse em construir aplicações bem estruturadas, integrar sistemas por meio de **APIs REST** e trabalhar com dados utilizando **SQL**.
+Minha experiência em suporte técnico de software me colocou em contato direto com os desafios de integração entre sistemas: validar requisições HTTP, analisar respostas de APIs, consultar dados em SQL e investigar por que uma comunicação não funciona como esperado. Esse contato despertou meu interesse por desenvolver as aplicações que estão por trás dessas integrações.
 
-Nos meus projetos pessoais, busco aprofundar meus conhecimentos no ecossistema **.NET**, na criação e no consumo de APIs e na integração com bancos de dados. Valorizo código claro, organização e boas práticas para desenvolver soluções fáceis de manter e evoluir.
-
-Minha experiência com suporte técnico de software, requisições HTTP e integrações contribui para uma visão prática sobre o comportamento das aplicações e a investigação de problemas. Gosto de transformar ideias em código e evoluir a cada projeto.
+Nos projetos pessoais, aprofundo meus conhecimentos em **C# e .NET**, criação e consumo de APIs e integração com bancos de dados. Meu objetivo é conectar essa experiência prática ao desenvolvimento: entender o fluxo de uma requisição, como os dados são tratados e como organizar o código para facilitar a manutenção.
 
 ## 🛠️ Minhas stacks
 

@@ -33,6 +33,16 @@ Nos projetos pessoais, aprofundo meus conhecimentos em **C# e .NET**, criação 
 
 </div>
 
+## 🚀 Projeto em destaque
+
+### [Integração Digisac + SQL Server](https://github.com/Gi232/APIDIGISAC)
+
+Integração de contatos entre a API Digisac e SQL Server, desenvolvida em **C# e .NET**.
+
+Aplicação de console que consulta contatos em uma API REST paginada e sincroniza os dados com o banco, inserindo novos registros e atualizando os existentes. Utiliza autenticação Bearer, desserialização de JSON e consultas SQL parametrizadas, com credenciais configuradas por variáveis de ambiente.
+
+**Tecnologias:** C# · .NET 10 · APIs REST · SQL Server · HttpClient
+
 ## 🤝 Contato profissional
 
 <div align="center">
